@@ -1,0 +1,14 @@
+/** @format */
+
+body,
+html {
+	background-color: hsl(217, 54%, 11%);
+	margin: 0 auto;
+	width: 100vw;
+	height: 100vh;
+	font-family: "Outfit", sans-serif;
+	font-size: 18px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: hsl(215, 51%, 70%);
+}
